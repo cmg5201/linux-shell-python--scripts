@@ -1,0 +1,23 @@
+[
+    {
+        "commodity_id": 1001,
+        "commodity_name": "电脑",
+        "commodity_price": 4500.0,
+        "commodity_quantity": 3,
+        "total_price": 13500.0
+    },
+    {
+        "commodity_name": "电脑",
+        "commodity_price": 3999,
+        "commodity_quantity": 2,
+        "total_price": 7998,
+        "commodity_id": 1003
+    },
+    {
+        "commodity_id": 1004,
+        "commodity_name": "飞机",
+        "commodity_price": 99999.0,
+        "commodity_quantity": 2,
+        "total_price": 199998.0
+    }
+]
