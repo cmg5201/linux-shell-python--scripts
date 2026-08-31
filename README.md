@@ -1,1 +1,1 @@
-# linux-notes
+#python和shell自动化脚本
